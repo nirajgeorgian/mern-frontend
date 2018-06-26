@@ -1,0 +1,23 @@
+.account {
+  color: rgba(0,0,0,.87);
+  background-color: transparent;
+  display: inline-block;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 190px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.account:hover, .account:active, .account:focus {
+  background: rgba(0,0,0,.05);
+  border-radius: .28571429rem;
+  border: none;
+}
+
+.centermargin {
+  margin-top: 10px !important;
+  margin-bottom: -5px !important;
+}
