@@ -1,5 +1,5 @@
 const config = {
-  url: 'http://localhost:8080/'
+  url: 'https://mern-backend-api.herokuapp.com/'
 }
 
 export default config
